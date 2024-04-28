@@ -781,7 +781,7 @@
 											"top": 495,
 											"width": 247,
 											"height": 13,
-											"text": "Adapters.MatrixAdapter"
+											"text": "MatrixAdapter"
 										},
 										{
 											"_type": "LabelView",
@@ -958,7 +958,7 @@
 											"top": 372,
 											"width": 142,
 											"height": 13,
-											"text": "Adapters.GpsAdapter"
+											"text": "GpsAdapter"
 										},
 										{
 											"_type": "LabelView",
@@ -2931,7 +2931,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Adapters.GpsAdapter",
+					"name": "GpsAdapter",
 					"stereotype": "interface"
 				},
 				{
@@ -2940,7 +2940,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Adapters.MatrixAdapter",
+					"name": "MatrixAdapter",
 					"ownedElements": [
 						{
 							"_type": "UMLInterfaceRealization",
@@ -2991,7 +2991,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Adapters.GpsAdapter",
+					"name": "GpsAdapter",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
